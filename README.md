@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alankritjoshi and I'm currently a SWE.
+- 👋 Hi, I’m @alankritjoshi and I'm currently a SWE
 - 👀 I’m interested in frameworks, tooling, QoL stuff
 - 🌱 I’m currently learning Go, observability patterns, SvelteKit
 - 💞️ I’m looking to collaborate on anything!
