@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alankritjoshi and I'm currently a SWE
-- 👀 I’m interested in frameworks, tooling, QoL stuff
+- 👀 I’m interested in eng productivity, tooling, QoL stuff
 - 🌱 I’m currently learning Go, observability patterns, SvelteKit
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: here or [alankr.it](https://alankr.it)
